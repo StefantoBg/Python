@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7be020e-4d3d-450b-83a4-c813fb44c271" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/Composition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/Dictionary.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/EventsLogger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/List comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/List-to-Str" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/List_modification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/execise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/pics/Classes_Cheat_Sheet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/pics/Classes_Special-Methods1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/pics/Classes_Special-Methods2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/pics/Classes_Special_Methods.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/pics/Composition-class-inheritance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/pics/Create_and_use_inheritance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/pics/Dictionary-Knowledge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/pics/Dictionary-Methods.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/pics/KnoledgeBase-Sequences.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/pics/List-Comprehensions.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/pics/List-Operations -Sequences.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/pics/Object_Composition.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/pics/WrapUp-StringListDict.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crash_Course/untitled" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Log-Analysis-Using-Regular-Expressions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Log-Analysis-Using-Regular-Expressions/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Log-Analysis-Using-Regular-Expressions/Log Analysis Using Regular Expression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Log-Analysis-Using-Regular-Expressions/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Log-Analysis-Using-Regular-Expressions/error_message.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Log-Analysis-Using-Regular-Expressions/user_statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Read_and_Write/DAT-bulk-upload-template.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Read_and_Write/Dictionary CSV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Read_and_Write/FIles and Directory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Read_and_Write/FileBasics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Read_and_Write/ReadCSV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Read_and_Write/coma.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Read_and_Write/employees.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Read_and_Write/exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Read_and_Write/first.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Read_and_Write/hosts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Read_and_Write/newDictCsv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Read_and_Write/sample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Read_and_Write/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Read_and_Write/system_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/RegExpr/RegEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Unit_testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/Unit_testing_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/check-file-exist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/makefile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/makefile1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/pics/Files handle .jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/pics/Problem.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/pics/csv_DictReader.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/pics/csv_DictWriter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/pics/csv_read.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/pics/csv_write.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/spider.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/website/Textfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/website/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSandPython/youtube_source_html.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2MJMIG7j2S1H2IVY9N8n6lIdltt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\steve\Desktop\Python\OSandPython" />
+      <recent name="C:\Users\steve\Desktop\Python\Interact with system - Automation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\steve\Desktop\Python\OSandPython\RegExpr" />
+      <recent name="C:\Users\steve\Desktop\Python\pics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in Unit_testing_test.py">
+    <configuration name="Dictionary CSV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OSandPython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OSandPython/Dictionary CSV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReadCSV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OSandPython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OSandPython/ReadCSV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RegEx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OSandPython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\steve\Desktop\Python\OSandPython\RegExpr\RegEx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit_testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OSandPython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OSandPython/Unit_testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="execise" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/execise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in Unit_testing_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OSandPython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/OSandPython/Unit_testing_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.execise" />
+      <item itemvalue="Python.ReadCSV" />
+      <item itemvalue="Python.Dictionary CSV" />
+      <item itemvalue="Python.RegEx" />
+      <item itemvalue="Python.Unit_testing" />
+      <item itemvalue="Python tests.Python tests in Unit_testing_test.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in Unit_testing_test.py" />
+        <item itemvalue="Python.Unit_testing" />
+        <item itemvalue="Python.RegEx" />
+        <item itemvalue="Python.Dictionary CSV" />
+        <item itemvalue="Python.ReadCSV" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7be020e-4d3d-450b-83a4-c813fb44c271" name="Changes" comment="" />
+      <created>1677481150467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677481150467</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
